@@ -12,7 +12,6 @@ url = 'https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/contents/test
 apikey = cfg["githubkey"]
 response = requests.get(url, auth = ('token', apikey))
 
-
 print (response.status_code)
 #print (response.json())
 

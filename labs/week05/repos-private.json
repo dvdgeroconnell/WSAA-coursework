@@ -7,7 +7,7 @@
         "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/contents/test/test2.py?ref=main",
         "html_url": "https://github.com/dvdgeroconnell/WSAA-restricted/blob/main/test/test2.py",
         "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/git/blobs/8cde7829c178ede96040e03f17c416d15bdacd01",
-        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-restricted/main/test/test2.py?token=BFTNLAVFDZXUJ4J4VFZURJ3F3OSMO",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-restricted/main/test/test2.py?token=BFTNLAUCHJ7MQSY4QYEAZ3TF3O45M",
         "type": "file",
         "_links": {
             "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/contents/test/test2.py?ref=main",
@@ -23,7 +23,7 @@
         "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/contents/test/test3.py?ref=main",
         "html_url": "https://github.com/dvdgeroconnell/WSAA-restricted/blob/main/test/test3.py",
         "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/git/blobs/852b1ac662f386f21b8d1444b89e3c328d9b45c5",
-        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-restricted/main/test/test3.py?token=BFTNLASVJJ2HIAXXVVHS2XLF3OSMO",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-restricted/main/test/test3.py?token=BFTNLAQJLH6E2LZHJ2UKKG3F3O45M",
         "type": "file",
         "_links": {
             "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/contents/test/test3.py?ref=main",
