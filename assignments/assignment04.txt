@@ -1,1 +1,1 @@
-b'Text file where instances of Dave will be replaced by my name.\nSo everywhere that Dave is mentioned will be updated.\nTest - Dave, Dave, Dave.\n'
+b"b'Text file where instances of Dave will be replaced by my name.\\nSo everywhere that Dave is mentioned will be updated.\\nTest - Dave, Dave, Dave.\\n'"
