@@ -1,4 +1,1 @@
-This is a test file that Andrew asked us to create.
-It needs to contain instances of the word "Andrew" which will be replaced with my name.
-So - Andrew! Andrew! Andrew! All I said was that it was a piece of fish good enough for Andrew...
-How could it get any worse??
+b'This is a test file that Dave asked us to create.\nIt needs to contain instances of the word "Dave" which will be replaced with my name.\nSo - Dave! Dave! Dave! All I said was that it was a piece of fish good enough for Dave...\nHow could it get any worse??\n'
