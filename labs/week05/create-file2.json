@@ -1,0 +1,52 @@
+{
+    "content": {
+        "name": "test9.py",
+        "path": "labs/test9.py",
+        "sha": "e75154b7c390fdc4aa85d86e0a191be255a00627",
+        "size": 20,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/test9.py?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/test9.py",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/e75154b7c390fdc4aa85d86e0a191be255a00627",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/test9.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/test9.py?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/e75154b7c390fdc4aa85d86e0a191be255a00627",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/test9.py"
+        }
+    },
+    "commit": {
+        "sha": "5013d287f82da96f020bee0e5fc8db086fea73eb",
+        "node_id": "C_kwDOLKW3OtoAKDUwMTNkMjg3ZjgyZGE5NmYwMjBiZWUwZTVmYzhkYjA4NmZlYTczZWI",
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/commits/5013d287f82da96f020bee0e5fc8db086fea73eb",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/commit/5013d287f82da96f020bee0e5fc8db086fea73eb",
+        "author": {
+            "name": "dvdgeroconnell",
+            "email": "dvdgeroconnell@gmail.com",
+            "date": "2024-02-26T21:01:07Z"
+        },
+        "committer": {
+            "name": "dvdgeroconnell",
+            "email": "dvdgeroconnell@gmail.com",
+            "date": "2024-02-26T21:01:07Z"
+        },
+        "tree": {
+            "sha": "31a05103d494addd2aef29294bdcd1f9002ac5a3",
+            "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/trees/31a05103d494addd2aef29294bdcd1f9002ac5a3"
+        },
+        "message": "commit w/o key",
+        "parents": [
+            {
+                "sha": "eadad659f6e751e7243f2aa7eebe088bb400ab65",
+                "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/commits/eadad659f6e751e7243f2aa7eebe088bb400ab65",
+                "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/commit/eadad659f6e751e7243f2aa7eebe088bb400ab65"
+            }
+        ],
+        "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null
+        }
+    }
+}

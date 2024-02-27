@@ -1,0 +1,226 @@
+[
+    {
+        "name": "cso.json",
+        "path": "labs/cso.json",
+        "sha": "56c7dca23228fdafd2042d9828ec43988feacdd7",
+        "size": 32043,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/cso.json?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/cso.json",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/56c7dca23228fdafd2042d9828ec43988feacdd7",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/cso.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/cso.json?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/56c7dca23228fdafd2042d9828ec43988feacdd7",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/cso.json"
+        }
+    },
+    {
+        "name": "csodao.py",
+        "path": "labs/csodao.py",
+        "sha": "6ebd0a99185d5d689a805b7d095a306f195552a2",
+        "size": 1358,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/csodao.py?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/csodao.py",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/6ebd0a99185d5d689a805b7d095a306f195552a2",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/csodao.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/csodao.py?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/6ebd0a99185d5d689a805b7d095a306f195552a2",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/csodao.py"
+        }
+    },
+    {
+        "name": "davesirishtrains.py",
+        "path": "labs/davesirishtrains.py",
+        "sha": "cd7493706868c9e6fdff435fa3365dfa7df5f3cb",
+        "size": 1217,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/davesirishtrains.py?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/davesirishtrains.py",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/cd7493706868c9e6fdff435fa3365dfa7df5f3cb",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/davesirishtrains.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/davesirishtrains.py?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/cd7493706868c9e6fdff435fa3365dfa7df5f3cb",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/davesirishtrains.py"
+        }
+    },
+    {
+        "name": "employees.xml",
+        "path": "labs/employees.xml",
+        "sha": "ed64b48a26d5104b2e94c2115f672ea29259135a",
+        "size": 413,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/employees.xml?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/employees.xml",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/ed64b48a26d5104b2e94c2115f672ea29259135a",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/employees.xml",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/employees.xml?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/ed64b48a26d5104b2e94c2115f672ea29259135a",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/employees.xml"
+        }
+    },
+    {
+        "name": "fetchcontent.py",
+        "path": "labs/fetchcontent.py",
+        "sha": "00a9493e6bec12d108e3bd9439a26371a318b477",
+        "size": 158,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/fetchcontent.py?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/fetchcontent.py",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/00a9493e6bec12d108e3bd9439a26371a318b477",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/fetchcontent.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/fetchcontent.py?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/00a9493e6bec12d108e3bd9439a26371a318b477",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/fetchcontent.py"
+        }
+    },
+    {
+        "name": "fetchxml.py",
+        "path": "labs/fetchxml.py",
+        "sha": "8f6af9d9c4aec038e99d339a7c4e605d4a3d873e",
+        "size": 1004,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/fetchxml.py?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/fetchxml.py",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/8f6af9d9c4aec038e99d339a7c4e605d4a3d873e",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/fetchxml.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/fetchxml.py?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/8f6af9d9c4aec038e99d339a7c4e605d4a3d873e",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/fetchxml.py"
+        }
+    },
+    {
+        "name": "firstjson.py",
+        "path": "labs/firstjson.py",
+        "sha": "976fd8cef0e8b07ac9f88d5a6e6d06fa7ea494d1",
+        "size": 358,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/firstjson.py?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/firstjson.py",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/976fd8cef0e8b07ac9f88d5a6e6d06fa7ea494d1",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/firstjson.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/firstjson.py?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/976fd8cef0e8b07ac9f88d5a6e6d06fa7ea494d1",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/firstjson.py"
+        }
+    },
+    {
+        "name": "modules.py",
+        "path": "labs/modules.py",
+        "sha": "da7ec9776eb2ddc489bb7f13853cbd4a87b29929",
+        "size": 271,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/modules.py?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/modules.py",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/da7ec9776eb2ddc489bb7f13853cbd4a87b29929",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/modules.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/modules.py?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/da7ec9776eb2ddc489bb7f13853cbd4a87b29929",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/modules.py"
+        }
+    },
+    {
+        "name": "simple.json",
+        "path": "labs/simple.json",
+        "sha": "ed2fcb0a4ca57b0dd2fe1a81e4ee93b7ec8d8183",
+        "size": 226,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/simple.json?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/simple.json",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/ed2fcb0a4ca57b0dd2fe1a81e4ee93b7ec8d8183",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/simple.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/simple.json?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/ed2fcb0a4ca57b0dd2fe1a81e4ee93b7ec8d8183",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/simple.json"
+        }
+    },
+    {
+        "name": "tempfile",
+        "path": "labs/tempfile",
+        "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+        "size": 1,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/tempfile?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/tempfile",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/tempfile",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/tempfile?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/tempfile"
+        }
+    },
+    {
+        "name": "trainxml.xml",
+        "path": "labs/trainxml.xml",
+        "sha": "01e08690324819ce8d1ab5c3193155b28109831e",
+        "size": 28088,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/trainxml.xml?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/trainxml.xml",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/01e08690324819ce8d1ab5c3193155b28109831e",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/trainxml.xml",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/trainxml.xml?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/01e08690324819ce8d1ab5c3193155b28109831e",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/trainxml.xml"
+        }
+    },
+    {
+        "name": "week02_train.csv",
+        "path": "labs/week02_train.csv",
+        "sha": "e11b12dbea985e11038fb141ac0fe10cd60532e5",
+        "size": 1505,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/week02_train.csv?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/week02_train.csv",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/e11b12dbea985e11038fb141ac0fe10cd60532e5",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/week02_train.csv",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/week02_train.csv?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/e11b12dbea985e11038fb141ac0fe10cd60532e5",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/week02_train.csv"
+        }
+    },
+    {
+        "name": "week05",
+        "path": "labs/week05",
+        "sha": "af2b1ec984f8bc79979cb7f23e5e1f6dbb740844",
+        "size": 0,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/week05?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/tree/main/labs/week05",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/trees/af2b1ec984f8bc79979cb7f23e5e1f6dbb740844",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/week05?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/trees/af2b1ec984f8bc79979cb7f23e5e1f6dbb740844",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/tree/main/labs/week05"
+        }
+    },
+    {
+        "name": "wsaa2.3-traintimes.py",
+        "path": "labs/wsaa2.3-traintimes.py",
+        "sha": "5c0b7df9745ff56c097d4f3a8e5b6764f6be2a01",
+        "size": 2197,
+        "url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/wsaa2.3-traintimes.py?ref=main",
+        "html_url": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/wsaa2.3-traintimes.py",
+        "git_url": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/5c0b7df9745ff56c097d4f3a8e5b6764f6be2a01",
+        "download_url": "https://raw.githubusercontent.com/dvdgeroconnell/WSAA-coursework/main/labs/wsaa2.3-traintimes.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/wsaa2.3-traintimes.py?ref=main",
+            "git": "https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/git/blobs/5c0b7df9745ff56c097d4f3a8e5b6764f6be2a01",
+            "html": "https://github.com/dvdgeroconnell/WSAA-coursework/blob/main/labs/wsaa2.3-traintimes.py"
+        }
+    }
+]

@@ -1,22 +1,26 @@
+# This program tests if it possible to create a file in a public repo without authentication.
+
 import requests
 import json
 from config import config as cfg
 
-filename = "create-file.json"
+filename = "create-file2.json"
+url = 'https://api.github.com/repos/dvdgeroconnell/WSAA-coursework/contents/labs/assignment04.txt'
 
-#url = 'https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/contents/test'
-url = 'https://api.github.com/repos/dvdgeroconnell/WSAA-restricted/contents/test/test4.py'
 
-# the more basic way of setting authorization
-#headers = {'Authorization': 'token ' + apikey}
-#response = requests.get(url, headers= headers)
+# The auth token is required because you can only read from public repositories without an auth key.
+apikey = cfg["courseworkkey"]
 
-apikey = cfg["githubkey"]
-# response = requests.get(url, auth = ('token', apikey))
+# First get the file
 
-mydata = {"message":"first commit","committer":{"name":"dvdgeroconnell","email":"dvdgeroconnell@gmail.com"},"content":"cHJpbnQoImhlbGxvIHdvcmxkIik="}
+response = requests.get(url, auth = ('token', apikey))
 
-# PUT works here but POST does not. It shoulld be the other way around because
+
+'''
+
+mydata = {"message":"commit w/o key","committer":{"name":"dvdgeroconnell","email":"dvdgeroconnell@gmail.com"},"content":"cHJpbnQoImhlbGxvIHdvcmxkIik="}
+
+# PUT works here but POST does not. It should be the other way around because
 # POST is defined as post(url, data, json, args) whereas PUT is defined as put(url, data, args) - no json
 # Also PUT works with "json =" but not "data ="
 
@@ -34,3 +38,5 @@ print (response.status_code)
 with  open(filename, 'w') as fp:
     repoJSON = response.json()
     json.dump(repoJSON, fp, indent=4)
+
+    '''

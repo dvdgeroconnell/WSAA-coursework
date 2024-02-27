@@ -38,7 +38,7 @@ file2_content = response2.text
 print(file2_content)
 
 # Append some text to the file.
-
+print("type is",type(file_content))
 new_content = file_content + "more stuff. \n"
 print(new_content)
 github_response = repo.update_file(file_info.path, "updated by program", new_content, file_info.sha)
