@@ -1,1 +1,1 @@
-b'Dave\nDave\nDave\n'
+b"b'Dave\\nDave\\nDave\\n'"
