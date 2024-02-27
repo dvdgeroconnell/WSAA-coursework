@@ -1,3 +1,1 @@
-Text file where instances of Andrew will be replaced by my name.
-So everywhere that Andrew is mentioned will be updated.
-Test - Andrew, Andrew, Andrew.
+b'Text file where instances of Dave will be replaced by my name.\nSo everywhere that Dave is mentioned will be updated.\nTest - Dave, Dave, Dave.\n'
