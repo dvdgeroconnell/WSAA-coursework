@@ -1,5 +1,7 @@
 # WSAA-coursework
 Coursework for the Web Services &amp; Applications module  
-First commit of Topic 02 Assignment - current weather  
-First commit of Topic 05 Assignment - updating files in Github  
-Commit Topic 06 lab work (excl venv)  
+Includes:  
+- Topic 02 Assignment - current weather  
+- Topic 05 Assignment - updating files in Github  
+- Topic 06 lab work (excl venv)  
+- Topic 07 lab work  

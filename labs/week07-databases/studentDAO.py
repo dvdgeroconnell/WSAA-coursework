@@ -13,7 +13,7 @@ class StudentDAO:
         self.host="localhost"
         self.user="root"
         self.password=""
-        self.database="wsaa"
+        self.database="wsaa2"
     
     def getCursor(self):
         self.connection = mysql.connector.connect(
@@ -35,19 +35,46 @@ class StudentDAO:
         cursor.execute(sql, values)
 
         self.connection.commit()
-        newid = cursor.lastrowid self.closeAll()
+        newid = cursor.lastrowid
+        self.closeAll()
         return newid
     
     def getAll(self):
-        # your code here
+        # select all members of student table
+        mycursor = self.getCursor()
+        sql = "SELECT * FROM student"
+        mycursor.execute(sql)
+        result = mycursor.fetchall()
+        return result
         
     def findByID(self, id):
-        #your code here
+        mycursor = self.getCursor()
+        sql = "SELECT * FROM student where id = %s"
+        values = (id,)
+        mycursor.execute(sql, values)
+        result = mycursor.fetchone()
+        self.closeAll()
+        return result
         
     def update(self, values):
-        #your code here
+        # update the student
+        mycursor = self.getCursor()
+        sql = "UPDATE student SET name = %s, age = %s where id = %s"
+        #values = ("Daniel", 33, 1)
+        mycursor.execute(sql, values)
+        # Commit the change
+        self.connection.commit()
+        self.closeAll()
+        return
         
     def delete(self, id):
-        # your code here
-        
+        # call the getCursor() method
+        mycursor = self.getCursor()
+        sql="DELETE FROM student where id = %s"
+        values = (id,)
+        mycursor.execute(sql, values)
+        self.connection.commit()
+        self.closeAll()
+        return
+
 studentDAO = StudentDAO()
