@@ -1,0 +1,32 @@
+
+<!-- 2 divs, one should be shown, the other hidden and a button that
+     toggles between them -->
+
+<html>
+    <head>
+        <title>9.2.3 (e2.8)</title>
+    </head>
+    <body>
+        <div id="myForm">
+            <!-- tags are called 'input' and they have an attribute firstname, etc-->
+            First name: <input type="text" name='firstName'/><br/>
+            Last name: <input type="text" name='lastName'/><br/>
+            Age: <input type="text" name='age'/><br/>
+            <!-- call the function 'doForm()' when the button is clicked -->
+            <button onclick="doForm()">go</button>
+        </div>
+        <script>
+            function doForm(){
+                var employee={}
+                var form=document.getElementById("myForm")
+                // how do we identify the inputs from the 3 inputs above?
+                // tags are called 'input' and they have an attribute - 
+                // firstname, lastname, age - use a query Selector-->
+                employee.firstName = form.querySelector('input[name="firstName"]').value
+                employee.lastName = form.querySelector('input[name="lastName"]').value
+                employee.age = form.querySelector('input[name="age"]').value
+                console.log("form data "+JSON.stringify(employee))
+            }
+        </script>
+    </body>
+</html>

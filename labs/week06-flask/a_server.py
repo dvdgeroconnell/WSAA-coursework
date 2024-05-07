@@ -21,7 +21,7 @@ def index():
 
 # the function returns Blah to you too for app route /blah
 # and this gets printed: 127.0.0.1 - - [04/Mar/2024 11:49:18] "GET /blah HTTP/1.1" 200 -
-def blah():
+def blah1():
     return "Blah to you too"
 
 

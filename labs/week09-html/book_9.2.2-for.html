@@ -1,0 +1,23 @@
+
+<!-- 2 divs, one should be shown, the other hidden and a button that
+     toggles between them -->
+
+<html>
+    <head>
+        <title>9.2.2 for</title>
+    </head>
+    <body>
+        <!-- output is not a keyword-->
+        <div id="output">
+            output here
+        </div>
+        <script>
+            var names = ['Joe', 'Mary', 'Dave']
+            var output=''
+            for (name of names){
+                output += name + '<br/>'
+            }
+            document.getElementById("output").innerHTML = output
+        </script>
+    </body>
+</html>

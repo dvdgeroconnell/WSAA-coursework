@@ -1,0 +1,32 @@
+
+<!-- 2 divs, one should be shown, the other hidden and a button that
+     toggles between them -->
+
+<html>
+    <head>
+        <title>9.2.2 if</title>
+    </head>
+    <body>
+        <!-- keyword "this" means this element, from "this" we can get
+             the value. We don't need an ID on it. -->
+        <input type="number" onchange="checkNumber(this)"/>
+        <br/>
+        <!-- Andrew had 'output' where I have 'george', I just wanted to 
+            confirm output wasn't a keyword-->
+        <div id="george">
+            output here
+        </div>
+        <script>
+            function checkNumber(inputElement){
+                var value = inputElement.value
+                if (value <10 ){
+                    document.getElementById("george").innerText = "too low"
+                }else if (value > 10) {
+                    document.getElementById("george").innerText = "too high"
+                }else{
+                    document.getElementById("george").innerText = "just right"
+                }
+            }
+        </script>
+    </body>
+</html>

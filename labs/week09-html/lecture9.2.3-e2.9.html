@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>9.2.3 (e2.9)</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td>how now</td>
+                <td>brown cow</td>
+                <td><button onclick="doRow(this)">output</button></td>
+            </tr>
+        </table>
+    </body>
+    <script>
+        function doRow(buttonElement){
+            var rowElement = buttonElement.parentNode.parentNode
+            // make an object to store the data in that row element
+            var data={}
+            data.cell1 = rowElement.cells[0].firstChild.textContent;
+            data.cell2 = rowElement.cells[1].firstChild.textContent;
+            console.log("row data "+JSON.stringify(data))
+        }
+    </script>
+</html>

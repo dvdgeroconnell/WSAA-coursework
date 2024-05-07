@@ -11,12 +11,13 @@
     </head>
     <body>
         <h1>Books</h1>
-        <div>
-            <p>1</p>
-            <button>Create</button><p></p>
-            <p>2</p>
+        <div> Create button...
+            <p>******************</p>
+            <!--<button>Create</button><p></p>-->
+            button <input type="submit" value="Create" id="name"/><br/>
+            <p>******************</p>
         </div>
-        <div>
+        <div> Table...
             <table class="table">
                 <tr>
                     <th>Title</th>
@@ -41,8 +42,11 @@
                 </tr>
             </table>
         </div>
-        <div>
+        <div> Form...
             <h2>
+                <!-- both buttons in span tags as only one will be displayed-->
+                <!--"display:none" makes it hidden-->
+                <!--Create a Book or Update this Book is displayed-->
             <span>Create a</span>
             <span style="display:none">Update this</span> Book
             </h2>
@@ -59,7 +63,7 @@
                 <option value="outstock">out of stock</option>
                 <option value="other">out of print</option>
             </select><br/>
-            <span><button>Create</button></span>
+            <span><button>Create 1</button></span>
             <span><button style="display:none">Update</button></span>
         </div>
     </body>
